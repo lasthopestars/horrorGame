@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: fc3ce44acf46df04e85ad1e6180d9200
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Body_mesh
+  - first:
+      1: 100002
+    second: Down_jaw_mesh
+  - first:
+      1: 100004
+    second: Down_teeth_mesh
+  - first:
+      1: 100006
+    second: DownTeeth
+  - first:
+      1: 100008
+    second: Eyes_mesh
+  - first:
+      1: 100010
+    second: Horns_mesh
+  - first:
+      1: 100012
+    second: Monster
+  - first:
+      1: 100014
+    second: //RootNode
+  - first:
+      1: 100016
+    second: MonsterHub001
+  - first:
+      1: 100018
+    second: MonsterHub001Bone001
+  - first:
+      1: 100020
+    second: MonsterHub002
+  - first:
+      1: 100022
+    second: MonsterHub003
+  - first:
+      1: 100024
+    second: MonsterHub003Bone001
+  - first:
+      1: 100026
+    second: MonsterHub003Bone002
+  - first:
+      1: 100028
+    second: MonsterHub003Bone003
+  - first:
+      1: 100030
+    second: MonsterHub003Bone004
+  - first:
+      1: 100032
+    second: MonsterHub003Bone005
+  - first:
+      1: 100034
+    second: MonsterHub003Bone006
+  - first:
+      1: 100036
+    second: MonsterHub003Bone007
+  - first:
+      1: 100038
+    second: MonsterHub003Bone008
+  - first:
+      1: 100040
+    second: MonsterHub003Bone009
+  - first:
+      1: 100042
+    second: MonsterLArm1
+  - first:
+      1: 100044
+    second: MonsterLArm2
+  - first:
+      1: 100046
+    second: MonsterLArmCollarbone
+  - first:
+      1: 100048
+    second: MonsterLArmDigit11
+  - first:
+      1: 100050
+    second: MonsterLArmDigit12
+  - first:
+      1: 100052
+    second: MonsterLArmDigit13
+  - first:
+      1: 100054
+    second: MonsterLArmDigit21
+  - first:
+      1: 100056
+    second: MonsterLArmDigit22
+  - first:
+      1: 100058
+    second: MonsterLArmDigit23
+  - first:
+      1: 100060
+    second: MonsterLArmDigit31
+  - first:
+      1: 100062
+    second: MonsterLArmDigit32
+  - first:
+      1: 100064
+    second: MonsterLArmDigit33
+  - first:
+      1: 100066
+    second: MonsterLArmDigit41
+  - first:
+      1: 100068
+    second: MonsterLArmDigit42
+  - first:
+      1: 100070
+    second: MonsterLArmDigit43
+  - first:
+      1: 100072
+    second: MonsterLArmDigit51
+  - first:
+      1: 100074
+    second: MonsterLArmDigit52
+  - first:
+      1: 100076
+    second: MonsterLArmDigit53
+  - first:
+      1: 100078
+    second: MonsterLArmPalm
+  - first:
+      1: 100080
+    second: MonsterLLeg1
+  - first:
+      1: 100082
+    second: MonsterLLeg2
+  - first:
+      1: 100084
+    second: MonsterLLegAnkle
+  - first:
+      1: 100086
+    second: MonsterLLegDigit11
+  - first:
+      1: 100088
+    second: MonsterLLegDigit12
+  - first:
+      1: 100090
+    second: MonsterLLegPlatform
+  - first:
+      1: 100092
+    second: MonsterRArm1
+  - first:
+      1: 100094
+    second: MonsterRArm2
+  - first:
+      1: 100096
+    second: MonsterRArmCollarbone
+  - first:
+      1: 100098
+    second: MonsterRArmDigit11
+  - first:
+      1: 100100
+    second: MonsterRArmDigit12
+  - first:
+      1: 100102
+    second: MonsterRArmDigit13
+  - first:
+      1: 100104
+    second: MonsterRArmDigit21
+  - first:
+      1: 100106
+    second: MonsterRArmDigit22
+  - first:
+      1: 100108
+    second: MonsterRArmDigit23
+  - first:
+      1: 100110
+    second: MonsterRArmDigit31
+  - first:
+      1: 100112
+    second: MonsterRArmDigit32
+  - first:
+      1: 100114
+    second: MonsterRArmDigit33
+  - first:
+      1: 100116
+    second: MonsterRArmDigit41
+  - first:
+      1: 100118
+    second: MonsterRArmDigit42
+  - first:
+      1: 100120
+    second: MonsterRArmDigit43
+  - first:
+      1: 100122
+    second: MonsterRArmDigit51
+  - first:
+      1: 100124
+    second: MonsterRArmDigit52
+  - first:
+      1: 100126
+    second: MonsterRArmDigit53
+  - first:
+      1: 100128
+    second: MonsterRArmPalm
+  - first:
+      1: 100130
+    second: MonsterRLeg1
+  - first:
+      1: 100132
+    second: MonsterRLeg2
+  - first:
+      1: 100134
+    second: MonsterRLegAnkle
+  - first:
+      1: 100136
+    second: MonsterRLegDigit11
+  - first:
+      1: 100138
+    second: MonsterRLegDigit12
+  - first:
+      1: 100140
+    second: MonsterRLegPlatform
+  - first:
+      1: 100142
+    second: MonsterSpine
+  - first:
+      1: 100144
+    second: MonsterSpine1
+  - first:
+      1: 100146
+    second: MonsterSpine2
+  - first:
+      1: 100148
+    second: Tongue_mesh
+  - first:
+      1: 100150
+    second: Up_jaw_mesh
+  - first:
+      1: 100152
+    second: Up_teeth_mesh
+  - first:
+      1: 100154
+    second: UpTeeth
+  - first:
+      4: 400000
+    second: Body_mesh
+  - first:
+      4: 400002
+    second: Down_jaw_mesh
+  - first:
+      4: 400004
+    second: Down_teeth_mesh
+  - first:
+      4: 400006
+    second: DownTeeth
+  - first:
+      4: 400008
+    second: Eyes_mesh
+  - first:
+      4: 400010
+    second: Horns_mesh
+  - first:
+      4: 400012
+    second: Monster
+  - first:
+      4: 400014
+    second: //RootNode
+  - first:
+      4: 400016
+    second: MonsterHub001
+  - first:
+      4: 400018
+    second: MonsterHub001Bone001
+  - first:
+      4: 400020
+    second: MonsterHub002
+  - first:
+      4: 400022
+    second: MonsterHub003
+  - first:
+      4: 400024
+    second: MonsterHub003Bone001
+  - first:
+      4: 400026
+    second: MonsterHub003Bone002
+  - first:
+      4: 400028
+    second: MonsterHub003Bone003
+  - first:
+      4: 400030
+    second: MonsterHub003Bone004
+  - first:
+      4: 400032
+    second: MonsterHub003Bone005
+  - first:
+      4: 400034
+    second: MonsterHub003Bone006
+  - first:
+      4: 400036
+    second: MonsterHub003Bone007
+  - first:
+      4: 400038
+    second: MonsterHub003Bone008
+  - first:
+      4: 400040
+    second: MonsterHub003Bone009
+  - first:
+      4: 400042
+    second: MonsterLArm1
+  - first:
+      4: 400044
+    second: MonsterLArm2
+  - first:
+      4: 400046
+    second: MonsterLArmCollarbone
+  - first:
+      4: 400048
+    second: MonsterLArmDigit11
+  - first:
+      4: 400050
+    second: MonsterLArmDigit12
+  - first:
+      4: 400052
+    second: MonsterLArmDigit13
+  - first:
+      4: 400054
+    second: MonsterLArmDigit21
+  - first:
+      4: 400056
+    second: MonsterLArmDigit22
+  - first:
+      4: 400058
+    second: MonsterLArmDigit23
+  - first:
+      4: 400060
+    second: MonsterLArmDigit31
+  - first:
+      4: 400062
+    second: MonsterLArmDigit32
+  - first:
+      4: 400064
+    second: MonsterLArmDigit33
+  - first:
+      4: 400066
+    second: MonsterLArmDigit41
+  - first:
+      4: 400068
+    second: MonsterLArmDigit42
+  - first:
+      4: 400070
+    second: MonsterLArmDigit43
+  - first:
+      4: 400072
+    second: MonsterLArmDigit51
+  - first:
+      4: 400074
+    second: MonsterLArmDigit52
+  - first:
+      4: 400076
+    second: MonsterLArmDigit53
+  - first:
+      4: 400078
+    second: MonsterLArmPalm
+  - first:
+      4: 400080
+    second: MonsterLLeg1
+  - first:
+      4: 400082
+    second: MonsterLLeg2
+  - first:
+      4: 400084
+    second: MonsterLLegAnkle
+  - first:
+      4: 400086
+    second: MonsterLLegDigit11
+  - first:
+      4: 400088
+    second: MonsterLLegDigit12
+  - first:
+      4: 400090
+    second: MonsterLLegPlatform
+  - first:
+      4: 400092
+    second: MonsterRArm1
+  - first:
+      4: 400094
+    second: MonsterRArm2
+  - first:
+      4: 400096
+    second: MonsterRArmCollarbone
+  - first:
+      4: 400098
+    second: MonsterRArmDigit11
+  - first:
+      4: 400100
+    second: MonsterRArmDigit12
+  - first:
+      4: 400102
+    second: MonsterRArmDigit13
+  - first:
+      4: 400104
+    second: MonsterRArmDigit21
+  - first:
+      4: 400106
+    second: MonsterRArmDigit22
+  - first:
+      4: 400108
+    second: MonsterRArmDigit23
+  - first:
+      4: 400110
+    second: MonsterRArmDigit31
+  - first:
+      4: 400112
+    second: MonsterRArmDigit32
+  - first:
+      4: 400114
+    second: MonsterRArmDigit33
+  - first:
+      4: 400116
+    second: MonsterRArmDigit41
+  - first:
+      4: 400118
+    second: MonsterRArmDigit42
+  - first:
+      4: 400120
+    second: MonsterRArmDigit43
+  - first:
+      4: 400122
+    second: MonsterRArmDigit51
+  - first:
+      4: 400124
+    second: MonsterRArmDigit52
+  - first:
+      4: 400126
+    second: MonsterRArmDigit53
+  - first:
+      4: 400128
+    second: MonsterRArmPalm
+  - first:
+      4: 400130
+    second: MonsterRLeg1
+  - first:
+      4: 400132
+    second: MonsterRLeg2
+  - first:
+      4: 400134
+    second: MonsterRLegAnkle
+  - first:
+      4: 400136
+    second: MonsterRLegDigit11
+  - first:
+      4: 400138
+    second: MonsterRLegDigit12
+  - first:
+      4: 400140
+    second: MonsterRLegPlatform
+  - first:
+      4: 400142
+    second: MonsterSpine
+  - first:
+      4: 400144
+    second: MonsterSpine1
+  - first:
+      4: 400146
+    second: MonsterSpine2
+  - first:
+      4: 400148
+    second: Tongue_mesh
+  - first:
+      4: 400150
+    second: Up_jaw_mesh
+  - first:
+      4: 400152
+    second: Up_teeth_mesh
+  - first:
+      4: 400154
+    second: UpTeeth
+  - first:
+      23: 2300000
+    second: Down_jaw_mesh
+  - first:
+      23: 2300002
+    second: Down_teeth_mesh
+  - first:
+      23: 2300004
+    second: Eyes_mesh
+  - first:
+      23: 2300006
+    second: Horns_mesh
+  - first:
+      23: 2300008
+    second: Tongue_mesh
+  - first:
+      23: 2300010
+    second: Up_jaw_mesh
+  - first:
+      23: 2300012
+    second: Up_teeth_mesh
+  - first:
+      33: 3300000
+    second: Down_jaw_mesh
+  - first:
+      33: 3300002
+    second: Down_teeth_mesh
+  - first:
+      33: 3300004
+    second: Eyes_mesh
+  - first:
+      33: 3300006
+    second: Horns_mesh
+  - first:
+      33: 3300008
+    second: Tongue_mesh
+  - first:
+      33: 3300010
+    second: Up_jaw_mesh
+  - first:
+      33: 3300012
+    second: Up_teeth_mesh
+  - first:
+      43: 4300000
+    second: Down_teeth_mesh
+  - first:
+      43: 4300002
+    second: Down_jaw_mesh
+  - first:
+      43: 4300004
+    second: Eyes_mesh
+  - first:
+      43: 4300006
+    second: Up_teeth_mesh
+  - first:
+      43: 4300008
+    second: Up_jaw_mesh
+  - first:
+      43: 4300010
+    second: Tongue_mesh
+  - first:
+      43: 4300012
+    second: Horns_mesh
+  - first:
+      43: 4300014
+    second: Body_mesh
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Body_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1
+    second: {fileID: 2100000, guid: d338b3b4042faa44b8d596df7c92b73c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'MonsterSpine1'
+      : rotation error = 1.794574 deg\n\t'MonsterSpine2' : rotation error = 18.816280
+      deg\n\t'MonsterSpine' : rotation error = 4.896191 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'MonsterLLegAnkle' has scale animation that
+      will be discarded.\n\t'MonsterLLegDigit11' has scale animation that will be
+      discarded.\n\t'MonsterSpine1' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'MonsterSpine2' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'MonsterSpine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MonsterHub003Bone002'
+      has translation animation that will be discarded.\n\t'MonsterHub003Bone003'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Monster@Get_Hit(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster
+      parentName: Monster@Get_Hit(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5000001, y: -0.50000006, z: -0.4999999, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MonsterLLegPlatform
+      parentName: Monster@Get_Hit(Clone)
+      position: {x: -0.19976127, y: 0.000000025907477, z: 0.15901889}
+      rotation: {x: 0.52959174, y: -0.5295916, z: -0.46854305, w: 0.4685432}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MonsterRLegPlatform
+      parentName: Monster@Get_Hit(Clone)
+      position: {x: 0.2120703, y: -0.000000046952746, z: -0.28819382}
+      rotation: {x: 0.4685432, y: -0.46854305, z: -0.5295916, w: 0.52959174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_mesh
+      parentName: Monster@Get_Hit(Clone)
+      position: {x: 0.09220958, y: 0.96333677, z: 0.05588146}
+      rotation: {x: -0.70710695, y: -0.00000016858735, z: -0.00000016858745, w: 0.7071066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MonsterHub001
+      parentName: Monster@Get_Hit(Clone)
+      position: {x: 0.0019451317, y: 1.0967184, z: 0.11711238}
+      rotation: {x: 0.5000001, y: -0.49999994, z: -0.5, w: 0.50000006}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: MonsterHub001Bone001
+      parentName: MonsterHub001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0000000021245798, y: 9.893345e-19, z: -4.6566123e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: MonsterSpine1
+      parentName: MonsterHub001Bone001
+      position: {x: -0.08700905, y: -0.020505104, z: 0}
+      rotation: {x: -0.000000057480065, y: 0.000000059604645, z: 0.000000060070306,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: MonsterSpine2
+      parentName: MonsterSpine1
+      position: {x: -0.14191855, y: -0.000000019073486, z: 0.0000000047683715}
+      rotation: {x: 3.5527137e-15, y: 0.000000014901161, z: -0.00000001490116, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999999}
+    - name: MonsterHub002
+      parentName: MonsterSpine2
+      position: {x: -0.11609787, y: 0, z: -7.4505804e-11}
+      rotation: {x: 0.000000029802322, y: -0.000000014901161, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: MonsterLArmCollarbone
+      parentName: MonsterHub002
+      position: {x: -0.15356612, y: 0.09260894, z: 0.053123716}
+      rotation: {x: 0.09050115, y: 0.6860463, z: 0.13381179, w: 0.7093973}
+      scale: {x: 1.0000046, y: 0.9999962, z: 1.0000008}
+    - name: MonsterLArm1
+      parentName: MonsterLArmCollarbone
+      position: {x: -0.25873625, y: 0.000000038146972, z: -0.000000076293944}
+      rotation: {x: 0.21996649, y: 0.004557728, z: -0.16652472, w: 0.9611782}
+      scale: {x: 1.0000018, y: 0.99999785, z: 1.0000012}
+    - name: MonsterLArm2
+      parentName: MonsterLArm1
+      position: {x: -0.29935372, y: -0.000000019073486, z: -0.000000038146972}
+      rotation: {x: -0.67625946, y: -0.0027676725, z: -0.025033394, w: 0.7362329}
+      scale: {x: 1.0000044, y: 0.9999984, z: 0.9999984}
+    - name: MonsterLArmPalm
+      parentName: MonsterLArm2
+      position: {x: -0.25652128, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.080215655, y: 0.032058205, z: 0.06182486, w: 0.9943417}
+      scale: {x: 1.0000008, y: 0.9999999, z: 1.0000004}
+    - name: MonsterLArmDigit11
+      parentName: MonsterLArmPalm
+      position: {x: -0.021905899, y: 0.011835098, z: 0.069710635}
+      rotation: {x: 0.24252236, y: 0.36438116, z: -0.15808989, w: 0.8851085}
+      scale: {x: 1.0000018, y: 1.0000027, z: 0.9999965}
+    - name: MonsterLArmDigit12
+      parentName: MonsterLArmDigit11
+      position: {x: -0.039947204, y: 0, z: 0}
+      rotation: {x: 0.000018745654, y: -0.0076591047, z: -0.002690374, w: 0.99996704}
+      scale: {x: 0.99999696, y: 1.0000032, z: 1.0000012}
+    - name: MonsterLArmDigit13
+      parentName: MonsterLArmDigit12
+      position: {x: -0.030836258, y: -0.000000019073486, z: 0}
+      rotation: {x: -0.0000114090735, y: -0.0049793418, z: 0.0018314361, w: 0.99998593}
+      scale: {x: 1.0000037, y: 0.9999976, z: 1.0000019}
+    - name: MonsterLArmDigit31
+      parentName: MonsterLArmPalm
+      position: {x: -0.15154411, y: 0.0017958832, z: 0.014085082}
+      rotation: {x: -0.004906124, y: 0.027866747, z: 0.068938605, w: 0.99721956}
+      scale: {x: 1.0000013, y: 1.0000008, z: 1}
+    - name: MonsterLArmDigit32
+      parentName: MonsterLArmDigit31
+      position: {x: -0.055160675, y: 0.000000019073486, z: -0.000000028610229}
+      rotation: {x: 0.0011743635, y: -0.0037745489, z: 0.036391087, w: 0.9993298}
+      scale: {x: 1.0000019, y: 1.0000004, z: 1.0000005}
+    - name: MonsterLArmDigit33
+      parentName: MonsterLArmDigit32
+      position: {x: -0.048493043, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.005797659, y: 0.01729257, z: 0.22232655, w: 0.9748017}
+      scale: {x: 1.000005, y: 0.9999983, z: 0.99999934}
+    - name: MonsterLArmDigit41
+      parentName: MonsterLArmPalm
+      position: {x: -0.1576712, y: -0.00021087646, z: -0.027742527}
+      rotation: {x: -0.004216157, y: 0.026405618, z: 0.068526536, w: 0.9972909}
+      scale: {x: 1.0000013, y: 1.0000006, z: 0.99999994}
+    - name: MonsterLArmDigit42
+      parentName: MonsterLArmDigit41
+      position: {x: -0.050009154, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.0040422403, y: -0.006668583, z: 0.036378607, w: 0.9993077}
+      scale: {x: 1.0000019, y: 1.000001, z: 1.0000005}
+    - name: MonsterLArmDigit43
+      parentName: MonsterLArmDigit42
+      position: {x: -0.03755081, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.0246299, y: -0.0034393794, z: 0.23093186, w: 0.9726521}
+      scale: {x: 1.0000045, y: 0.9999961, z: 1.0000024}
+    - name: MonsterLArmDigit51
+      parentName: MonsterLArmPalm
+      position: {x: -0.1358551, y: -0.013862838, z: -0.066572286}
+      rotation: {x: -0.0027014308, y: 0.025107281, z: 0.066979066, w: 0.99743485}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000006}
+    - name: MonsterLArmDigit52
+      parentName: MonsterLArmDigit51
+      position: {x: -0.04005005, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.0005459478, y: 0.00808309, z: 0.040559184, w: 0.9991444}
+      scale: {x: 1.0000018, y: 0.9999986, z: 1}
+    - name: MonsterLArmDigit53
+      parentName: MonsterLArmDigit52
+      position: {x: -0.024951706, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.024473485, y: -0.011201153, z: 0.074190035, w: 0.9968809}
+      scale: {x: 1.0000026, y: 0.9999995, z: 1.0000005}
+    - name: MonsterLArmDigit21
+      parentName: MonsterLArmPalm
+      position: {x: -0.1438974, y: 0.0017057037, z: 0.05842877}
+      rotation: {x: -0.0064654252, y: 0.030574292, z: 0.070435114, w: 0.99702674}
+      scale: {x: 1.000003, y: 0.99999833, z: 1.0000002}
+    - name: MonsterLArmDigit22
+      parentName: MonsterLArmDigit21
+      position: {x: -0.04679306, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0010644856, y: -0.0015527081, z: 0.033986952, w: 0.9994205}
+      scale: {x: 1.0000006, y: 0.9999989, z: 1.0000025}
+    - name: MonsterLArmDigit23
+      parentName: MonsterLArmDigit22
+      position: {x: -0.043479003, y: 0, z: 0}
+      rotation: {x: 0.00032246878, y: 0.0015686747, z: 0.18554315, w: 0.9826348}
+      scale: {x: 1.0000002, y: 0.9999973, z: 1.0000043}
+    - name: MonsterSpine
+      parentName: MonsterHub002
+      position: {x: -0.2798548, y: -0.023876114, z: 0.0000028657912}
+      rotation: {x: 0.000026087959, y: 0.000022785565, z: 0.49202058, w: -0.8705836}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: MonsterHub003
+      parentName: MonsterSpine
+      position: {x: -0.04723154, y: 0.00000015258789, z: 0.0000000047683715}
+      rotation: {x: 0.000011593103, y: 0.000032536685, z: -0.00046269596, w: 0.99999994}
+      scale: {x: 1.0000017, y: 0.99999744, z: 1}
+    - name: Eyes_mesh
+      parentName: MonsterHub003
+      position: {x: 0.24865359, y: 0.661579, z: 0.00000022888183}
+      rotation: {x: 0.61543447, y: 0.348196, z: -0.61543435, w: 0.3481961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpTeeth
+      parentName: MonsterHub003
+      position: {x: -0.117035784, y: 0.037017368, z: 0.00000015263278}
+      rotation: {x: 0.61543447, y: 0.348196, z: -0.61543435, w: 0.3481961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Up_teeth_mesh
+      parentName: UpTeeth
+      position: {x: -0, y: -0.008513507, z: -0.7236981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Up_jaw_mesh
+      parentName: UpTeeth
+      position: {x: -0, y: -0.008513507, z: -0.7236981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue_mesh
+      parentName: MonsterHub003
+      position: {x: 0.25306332, y: 0.6689184, z: 0.00000022888183}
+      rotation: {x: 0.61543447, y: 0.348196, z: -0.61543435, w: 0.3481961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Horns_mesh
+      parentName: MonsterHub003
+      position: {x: 0.24865362, y: 0.66157883, z: 0.00000030517577}
+      rotation: {x: 0.61543465, y: 0.34819594, z: -0.61543417, w: 0.3481962}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MonsterHub003Bone002
+      parentName: MonsterHub003
+      position: {x: -0.15136597, y: -0.018315276, z: 0.02561406}
+      rotation: {x: -0.24171492, y: -0.81581384, z: 0.097882845, w: -0.516179}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: MonsterHub003Bone006
+      parentName: MonsterHub003
+      position: {x: -0.12321586, y: 0.045985106, z: 0.041120086}
+      rotation: {x: -0.07402671, y: -0.33391288, z: 0.20338657, w: -0.91741824}
+      scale: {x: 0.99999994, y: 0.99999964, z: 0.99999994}
+    - name: MonsterHub003Bone004
+      parentName: MonsterHub003
+      position: {x: -0.13763301, y: 0.052707672, z: 0}
+      rotation: {x: 0.00000007692778, y: -0.0000000033323881, z: -0.21643953, w: 0.976296}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: MonsterHub003Bone001
+      parentName: MonsterHub003
+      position: {x: -0.017373046, y: 0.016956024, z: -0.00000022888183}
+      rotation: {x: 0.000000053444637, y: -0.00000004605681, z: -0.45399055, w: 0.8910066}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: DownTeeth
+      parentName: MonsterHub003Bone001
+      position: {x: -0.09246929, y: -0.032392953, z: 0.00000037692624}
+      rotation: {x: 0.39027843, y: 0.5896462, z: -0.39027834, w: 0.5896464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Down_teeth_mesh
+      parentName: DownTeeth
+      position: {x: -0, y: -0.009356994, z: -0.6845178}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Down_jaw_mesh
+      parentName: DownTeeth
+      position: {x: -0, y: -0.009356994, z: -0.6845178}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MonsterHub003Bone007
+      parentName: MonsterHub003Bone001
+      position: {x: -0.10147789, y: -0.03888275, z: 0.039999597}
+      rotation: {x: 0.006867829, y: -0.39087075, z: -0.18539457, w: -0.9015552}
+      scale: {x: 1.0000014, y: 0.9999987, z: 0.9999999}
+    - name: MonsterHub003Bone005
+      parentName: MonsterHub003Bone001
+      position: {x: -0.120530546, y: -0.042624585, z: 0.000000028610229}
+      rotation: {x: -0.000000011175871, y: 0.00000004656613, z: 0.24192202, w: 0.9702958}
+      scale: {x: 1.000002, y: 0.9999985, z: 1}
+    - name: MonsterHub003Bone009
+      parentName: MonsterHub003Bone001
+      position: {x: -0.101477966, y: -0.03888275, z: -0.03999957}
+      rotation: {x: 0.006867881, y: -0.39087066, z: 0.18539448, w: 0.90155524}
+      scale: {x: 0.9999992, y: 1.000001, z: 0.9999994}
+    - name: MonsterHub003Bone003
+      parentName: MonsterHub003
+      position: {x: -0.151366, y: -0.018315582, z: -0.025614051}
+      rotation: {x: -0.24171479, y: -0.8158138, z: -0.097882815, w: 0.51617897}
+      scale: {x: 1.0000004, y: 0.9999995, z: 0.9999996}
+    - name: MonsterHub003Bone008
+      parentName: MonsterHub003
+      position: {x: -0.123215936, y: 0.045984954, z: -0.04112007}
+      rotation: {x: -0.07402661, y: -0.33391306, z: -0.20338675, w: 0.9174181}
+      scale: {x: 1.0000001, y: 0.99999946, z: 0.9999998}
+    - name: MonsterRArmCollarbone
+      parentName: MonsterHub002
+      position: {x: -0.15356621, y: 0.09260891, z: -0.05312375}
+      rotation: {x: 0.09050045, y: 0.6860467, z: -0.13381092, w: -0.7093972}
+      scale: {x: 0.9999963, y: 1.0000051, z: 1.0000002}
+    - name: MonsterRArm1
+      parentName: MonsterRArmCollarbone
+      position: {x: -0.25873625, y: 0, z: -0.000000076293944}
+      rotation: {x: -0.21996541, y: -0.0045573404, z: -0.16652246, w: 0.96117884}
+      scale: {x: 0.9999992, y: 1.0000017, z: 0.9999985}
+    - name: MonsterRArm2
+      parentName: MonsterRArm1
+      position: {x: -0.29935378, y: 0, z: 0}
+      rotation: {x: 0.67625976, y: 0.0027685214, z: -0.025029492, w: 0.73623276}
+      scale: {x: 0.9999968, y: 1.000002, z: 1.0000017}
+    - name: MonsterRArmPalm
+      parentName: MonsterRArm2
+      position: {x: -0.25652128, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.080216445, y: -0.032057524, z: 0.0618222, w: 0.9943419}
+      scale: {x: 0.9999998, y: 1.0000014, z: 1.0000008}
+    - name: MonsterRArmDigit11
+      parentName: MonsterRArmPalm
+      position: {x: -0.021906052, y: 0.0118349455, z: -0.06971061}
+      rotation: {x: -0.24251898, y: -0.36438262, z: -0.15808599, w: 0.8851094}
+      scale: {x: 0.9999981, y: 1.0000002, z: 1.000003}
+    - name: MonsterRArmDigit12
+      parentName: MonsterRArmDigit11
+      position: {x: -0.03994728, y: 0, z: 0.000000038146972}
+      rotation: {x: -0.000018805265, y: 0.0076591372, z: -0.002690211, w: 0.9999671}
+      scale: {x: 0.99999726, y: 1.0000035, z: 1.0000006}
+    - name: MonsterRArmDigit13
+      parentName: MonsterRArmDigit12
+      position: {x: -0.030836334, y: 0.000000009536743, z: 0.000000038146972}
+      rotation: {x: 0.000011323708, y: 0.0049792673, z: 0.001831034, w: 0.999986}
+      scale: {x: 1.0000035, y: 0.9999971, z: 1}
+    - name: MonsterRArmDigit31
+      parentName: MonsterRArmPalm
+      position: {x: -0.15154381, y: 0.001795845, z: -0.014085111}
+      rotation: {x: 0.004907189, y: -0.027868165, z: 0.06893471, w: 0.99721974}
+      scale: {x: 0.9999986, y: 1.0000015, z: 1.0000006}
+    - name: MonsterRArmDigit32
+      parentName: MonsterRArmDigit31
+      position: {x: -0.055160597, y: -0.000000019073486, z: 0.000000019073486}
+      rotation: {x: -0.0011736288, y: 0.0037730355, z: 0.036390893, w: 0.9993298}
+      scale: {x: 0.99999803, y: 1.0000029, z: 1.0000008}
+    - name: MonsterRArmDigit33
+      parentName: MonsterRArmDigit32
+      position: {x: -0.048493043, y: 0.000000019073486, z: -0.000000028610229}
+      rotation: {x: -0.0057974546, y: -0.017292507, z: 0.22232617, w: 0.9748017}
+      scale: {x: 0.9999972, y: 1.0000025, z: 1.0000001}
+    - name: MonsterRArmDigit41
+      parentName: MonsterRArmPalm
+      position: {x: -0.15771766, y: -0.00018436431, z: 0.02718626}
+      rotation: {x: 0.0042168247, y: -0.02640818, z: 0.06852321, w: 0.997291}
+      scale: {x: 0.99999756, y: 1.0000035, z: 1.000001}
+    - name: MonsterRArmDigit42
+      parentName: MonsterRArmDigit41
+      position: {x: -0.050009232, y: -0.000000038146972, z: 0}
+      rotation: {x: -0.004041308, y: 0.006667002, z: 0.036376156, w: 0.9993078}
+      scale: {x: 1.0000013, y: 0.9999997, z: 1.0000011}
+    - name: MonsterRArmDigit43
+      parentName: MonsterRArmDigit42
+      position: {x: -0.037550773, y: 0.000000038146972, z: -0.000000019073486}
+      rotation: {x: -0.024630014, y: 0.0034395205, z: 0.23093195, w: 0.9726521}
+      scale: {x: 0.9999996, y: 1.0000007, z: 1.0000025}
+    - name: MonsterRArmDigit51
+      parentName: MonsterRArmPalm
+      position: {x: -0.13611038, y: -0.013742294, z: 0.066579}
+      rotation: {x: 0.002702584, y: -0.025110686, z: 0.06697375, w: 0.99743503}
+      scale: {x: 0.9999987, y: 1.0000014, z: 1.0000007}
+    - name: MonsterRArmDigit52
+      parentName: MonsterRArmDigit51
+      position: {x: -0.039942093, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -0.00054560753, y: -0.0080833705, z: 0.040560495, w: 0.99914426}
+      scale: {x: 0.9999984, y: 1.0000021, z: 1.0000013}
+    - name: MonsterRArmDigit53
+      parentName: MonsterRArmDigit52
+      position: {x: -0.024951706, y: 0.000000076293944, z: 0.000000019073486}
+      rotation: {x: -0.02447384, y: 0.011201333, z: 0.07418987, w: 0.9968808}
+      scale: {x: 0.99999774, y: 1.000002, z: 1.0000008}
+    - name: MonsterRArmDigit21
+      parentName: MonsterRArmPalm
+      position: {x: -0.1439042, y: 0.002176056, z: -0.058426492}
+      rotation: {x: 0.0064662746, y: -0.030575957, z: 0.070431694, w: 0.997027}
+      scale: {x: 0.9999988, y: 1.0000014, z: 1.0000004}
+    - name: MonsterRArmDigit22
+      parentName: MonsterRArmDigit21
+      position: {x: -0.046852417, y: -0.000000038146972, z: 0}
+      rotation: {x: 0.001065645, y: 0.0015519923, z: 0.033983413, w: 0.9994207}
+      scale: {x: 0.9999957, y: 1.0000025, z: 1.0000033}
+    - name: MonsterRArmDigit23
+      parentName: MonsterRArmDigit22
+      position: {x: -0.043479003, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.00032233712, y: -0.0015686519, z: 0.18554345, w: 0.9826347}
+      scale: {x: 0.9999914, y: 1.0000057, z: 1.0000044}
+    - name: MonsterLLeg1
+      parentName: MonsterHub001
+      position: {x: -0.045273513, y: -0.11711237, z: 0.14643608}
+      rotation: {x: -0.117009, y: 0.9920275, z: 0.0005986392, w: 0.04679757}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: MonsterLLeg2
+      parentName: MonsterLLeg1
+      position: {x: -0.55918854, y: 0.000006561279, z: -0.000006084442}
+      rotation: {x: -0.032339472, y: 0.027676564, z: 0.3390275, w: 0.939813}
+      scale: {x: 1.0000062, y: 0.99999046, z: 1.000004}
+    - name: MonsterLLegAnkle
+      parentName: MonsterLLeg2
+      position: {x: -0.3627791, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.024748009, y: 0.04796157, z: -0.40374932, w: 0.91327643}
+      scale: {x: 1.0000144, y: 0.9999858, z: 0.99999994}
+    - name: MonsterLLegDigit11
+      parentName: MonsterLLegAnkle
+      position: {x: -0.26036915, y: 0.000111198424, z: 0.0009835053}
+      rotation: {x: 0.03216924, y: 0.00032899342, z: -0.5599368, w: 0.82791054}
+      scale: {x: 1.000021, y: 0.9999787, z: 0.9999998}
+    - name: MonsterLLegDigit12
+      parentName: MonsterLLegDigit11
+      position: {x: -0.118055865, y: 0.0000000023841857, z: -0.000000019073486}
+      rotation: {x: -0, y: -0, z: -0.0000000036443448, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MonsterRLeg1
+      parentName: MonsterHub001
+      position: {x: -0.045273513, y: -0.11711237, z: -0.1464361}
+      rotation: {x: -0.117005825, y: 0.9920272, z: -0.00059181446, w: -0.04681244}
+      scale: {x: 0.99999964, y: 1.0000004, z: 0.9999999}
+    - name: MonsterRLeg2
+      parentName: MonsterRLeg1
+      position: {x: -0.55918866, y: 0.0000065803524, z: 0.000006122589}
+      rotation: {x: 0.032439638, y: -0.027734457, z: 0.3390181, w: 0.9398112}
+      scale: {x: 0.99999744, y: 0.9999994, z: 1.0000031}
+    - name: MonsterRLegAnkle
+      parentName: MonsterRLeg2
+      position: {x: -0.3627791, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.02474952, y: -0.047715794, z: -0.40380955, w: 0.91326255}
+      scale: {x: 0.9999969, y: 1.0000036, z: 1.0000004}
+    - name: MonsterRLegDigit11
+      parentName: MonsterRLegAnkle
+      position: {x: -0.26036826, y: 0.000111198424, z: -0.0009834862}
+      rotation: {x: -0.032038838, y: -0.00052447425, z: -0.55988395, w: 0.8279512}
+      scale: {x: 0.99999446, y: 1.0000055, z: 0.9999998}
+    - name: MonsterRLegDigit12
+      parentName: MonsterRLegDigit11
+      position: {x: -0.11805591, y: 0, z: 0}
+      rotation: {x: 0.00000001117587, y: 0.000000085332424, z: 0.00000006671507, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

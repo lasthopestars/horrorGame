@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eaeef37ab66d18a42adc9eaa50a9b16c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phantom Fingers
+  fontNames:
+  - Phantom Fingers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d007458e7b61e5419b2609e610437fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
